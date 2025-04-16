@@ -5,4 +5,4 @@
 
 ### languege
 <div width = "100%">
-  <img align="left" src="https://github.com/user-attachments/assets/eb065cde-20aa-47a9-99a7-1afe9194f39f"
+  <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
